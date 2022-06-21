@@ -3,7 +3,9 @@ arr = list(map(int, input().split()))
 sosu = []
 
 for a in arr:
-    if a == 1 or a == 2:
+    if a == 1:
+        continue
+    if a == 2:
         sosu.append(a)
         continue
     for i in range(2, a//2+1):
