@@ -8,3 +8,8 @@
 ## Brute force
 - 2309<br>
 
+## Backtracking
+- 14888 <br>
+
+## DFS
+-  14888 <br>
