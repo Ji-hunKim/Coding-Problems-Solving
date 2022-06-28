@@ -21,3 +21,7 @@
 
 ## Two Pointer
 - 14719
+
+## Dynamic Programming
+- 2293
+- 2294
