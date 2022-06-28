@@ -1,5 +1,5 @@
 ## BOJ problem solving
----
+
 ## Basic
 - 2609
 - 2693
