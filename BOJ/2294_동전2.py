@@ -1,7 +1,7 @@
 n, k = map(int, input().split())
 arr = [int(input()) for _ in range(n)]
 
-dp = [0] + [100001 for _ in range(k)]
+dp = [0] + [100002 for _ in range(k)]
 
 for i in arr:
     for j in range(i, k+1):
