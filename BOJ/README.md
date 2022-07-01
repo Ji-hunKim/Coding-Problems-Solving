@@ -1,27 +1,25 @@
 ## BOJ problem solving
 
-## Basic
+## Array | String | Loop
 - 2609
 - 2693
 - 1978
 - 1789
+- 2501
 
 ## Brute force
 - 2309
 - 3085
 
-## Backtracking
-- 14888
-
-## DFS
+## DFS | BFS | Backtracking
 - 14888
 - 2667
 - 1260
 
-## Stack
+## Stack | Queue
 - 2504
 
-## Two Pointer
+## Two Pointers
 - 14719
 
 ## Dynamic Programming
@@ -29,5 +27,7 @@
 - 2294
 - 17070
 
-## Combinations
+## Combinations | Permutations
 - 1038
+
+## Intersection | Union
