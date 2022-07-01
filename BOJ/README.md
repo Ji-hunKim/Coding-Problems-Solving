@@ -16,6 +16,7 @@
 ## DFS
 - 14888
 - 2667
+- 1260
 
 ## Stack
 - 2504
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 - 2293
 - 2294
+- 17070
 
 ## Combinations
 - 1038
