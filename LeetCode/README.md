@@ -2,6 +2,7 @@
 
 ## Array | String | Loop
 - Two Sum
+- Best Time To Buy And Sell
 
 ## Brute force
 
@@ -16,3 +17,5 @@
 ## Combinations | Permutations
 
 ## Intersection | Union
+
+## Hash

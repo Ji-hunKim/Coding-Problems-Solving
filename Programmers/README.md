@@ -15,3 +15,5 @@
 ## Combinations | Permutations
 
 ## Intersection | Union
+
+## Hash
