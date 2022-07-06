@@ -12,7 +12,7 @@
 
 ## Dynamic Programming
 
-## Combinations | Permutations
+## Permutations | Combinations
 
 ## Intersection | Union
 

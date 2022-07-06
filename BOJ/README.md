@@ -29,7 +29,7 @@
 - 17070
 - 15486
 
-## Combinations | Permutations
+## Permutations | Combinations
 - 1038
 
 ## Intersection | Union
