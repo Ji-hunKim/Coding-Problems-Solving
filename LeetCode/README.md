@@ -3,16 +3,19 @@
 ## Array | String | Loop
 - Two Sum
 - Best Time To Buy And Sell
-
-## Brute force
+- Contains Duplicate
+- Product of Array Expect Self
 
 ## DFS | BFS | Backtracking
 
-## Stack | Queue
+## Dynamic Programming
+- Climbing Stairs
 
 ## Two Pointers
 
-## Dynamic Programming
+## Stack | Queue
+
+## Brute force
 
 ## Permutations | Combinations
 
